@@ -1,0 +1,29 @@
+_repo: I-Pose_60346
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benson, Stella
+    alias: Anderson, J. C. O'Gorman, Mrs.
+    birthdate: 1892
+    deathdate: 1933
+    gutenberg_agent_id: '3938'
+    url: http://www.gutenberg.org/2009/agents/3938
+    wikipedia: https://en.wikipedia.org/wiki/Stella_Benson
+description: ''
+gutenberg_issued: '2019-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60346'
+  lccn: '16001273'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Suffragists -- Fiction'
+- !lcsh 'Satire'
+- !lcsh 'London (England) -- Fiction'
+- GITenberg
+title: I Pose
+url: http://www.gutenberg.org/ebooks/60346
